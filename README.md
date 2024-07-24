@@ -2,7 +2,7 @@
 - 👀 I’m interested in creating websites for any organisation big or small
 - 🌱 I’m currently learning PHP 
 - 💞️ I’m looking to collaborate on anything that can enhance my skills
-- 📫 You can email oneilrattyy2004@gmail.com to contact me
+- 📫 You can email oneilratty2004@gmail.com to contact me
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: If you dont see me programming im probably catching up on my anime
 
