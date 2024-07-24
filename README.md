@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on anything that can enhance my skills
 - 📫 You can email oneilrattyy2004@gmail.com to contact me
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Cant wait to relax and watch anime
+- ⚡ Fun fact: If you dont see me programming im probably catching up on my anime
 
 <!---
 ONeil-Ratty/ONeil-Ratty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
