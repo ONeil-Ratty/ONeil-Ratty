@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ONeil-Ratty
+- 👋 Hi, I’m O'Neil J. Ratty
 - 👀 I’m interested in creating websites for any organisation big or small
 - 🌱 I’m currently learning PHP 
 - 💞️ I’m looking to collaborate on anything that can enhance my skills
