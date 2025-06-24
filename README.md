@@ -4,8 +4,8 @@
 <p>💡 &nbsp;I am a hardworking quality oriented student of software engineering.<br>
 🎓 &nbsp;I’m currently studying software engineeting with WETHINKCODE_<br>
 🌱 &nbsp;I’m currently learning Python, C, Java and PHP<br>
-✍️ &nbsp;In my free time, i like gaming, researching about cool stuff, play guitar<br>
-💬 &nbsp;If you wanna message me, im most likely free, if you wanna find out more about me or just become friends<br>
+✍️ &nbsp;In my free time, i like gaming, researching about cool stuff, playing guitar and watching anime<br>
+💬 &nbsp;If you wanna message me, im most likely busy, if you wanna find out more about me or just become friends hit me up<br>
 ✉️ &nbsp;You can shoot me an email at <a href="mailto:oneilratty2004@gmail.com">oneilratty2004@gmail.com</a>! I’ll try to respond as soon as I can.<br>
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right">
 <h3 id="-tech-stack">🛠 &nbsp;Tech Stack</h3>
